@@ -1,0 +1,17 @@
+D:\ООП\Lab20\Lab20\bin\Debug\net8.0-windows\Lab20.exe
+D:\ООП\Lab20\Lab20\bin\Debug\net8.0-windows\Lab20.deps.json
+D:\ООП\Lab20\Lab20\bin\Debug\net8.0-windows\Lab20.runtimeconfig.json
+D:\ООП\Lab20\Lab20\bin\Debug\net8.0-windows\Lab20.dll
+D:\ООП\Lab20\Lab20\bin\Debug\net8.0-windows\Lab20.pdb
+D:\ООП\Lab20\Lab20\obj\Debug\net8.0-windows\Lab20.Form1.resources
+D:\ООП\Lab20\Lab20\obj\Debug\net8.0-windows\Lab20.csproj.GenerateResource.cache
+D:\ООП\Lab20\Lab20\obj\Debug\net8.0-windows\Lab20.GeneratedMSBuildEditorConfig.editorconfig
+D:\ООП\Lab20\Lab20\obj\Debug\net8.0-windows\Lab20.AssemblyInfoInputs.cache
+D:\ООП\Lab20\Lab20\obj\Debug\net8.0-windows\Lab20.AssemblyInfo.cs
+D:\ООП\Lab20\Lab20\obj\Debug\net8.0-windows\Lab20.csproj.CoreCompileInputs.cache
+D:\ООП\Lab20\Lab20\obj\Debug\net8.0-windows\Lab20.dll
+D:\ООП\Lab20\Lab20\obj\Debug\net8.0-windows\refint\Lab20.dll
+D:\ООП\Lab20\Lab20\obj\Debug\net8.0-windows\Lab20.pdb
+D:\ООП\Lab20\Lab20\obj\Debug\net8.0-windows\Lab20.genruntimeconfig.cache
+D:\ООП\Lab20\Lab20\obj\Debug\net8.0-windows\ref\Lab20.dll
+D:\ООП\Lab20\Lab20\obj\Debug\net8.0-windows\Lab20.Properties.Resources.resources
